@@ -3,6 +3,13 @@
 The project focuses on sentiment analysis of product reviews using natural language processing techniques. It aims to provide insights into the sentiment polarity (positive, negative, or neutral) of customer reviews to help businesses understand customer opinions about their products more effectively.
 
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](screenshots)
+- [Credits](#credits)
+ 
 Table of Contents:
 
 1- Installation
@@ -55,7 +62,7 @@ $ python sentiment_analysis.py
 ```
 
 
-## Usage/Examples
+## Usage
 1-Open the Python script (sentiment_analysis.py) in your preferred code editor.
 
 2- Modify the script as needed to specify the input data source (e.g., CSV file path).
@@ -77,3 +84,6 @@ review2 = df['reviews.text'][1]
 ## Screenshots
 
 ![App Screenshot](https://github.com/Jbass95/codingTasks/blob/main/Screenshot1.png)
+
+## Credits
+
