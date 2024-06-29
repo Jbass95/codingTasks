@@ -10,12 +10,6 @@ The project focuses on sentiment analysis of product reviews using natural langu
 - [Screenshots](screenshots)
 - [Credits](#credits)
  
-Table of Contents:
-
-1- Installation
-
-2- Usage
-
 
 ## Installation
 
@@ -87,3 +81,4 @@ review2 = df['reviews.text'][1]
 
 ## Credits
 
+This project was created by https://github.com/Jbass95
